@@ -1,2 +1,2 @@
 # bookbot
-BookBot is a git project!
+BookBot is a guided project by Boot.dev.
